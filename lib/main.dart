@@ -143,7 +143,7 @@ class Body extends StatelessWidget {
               size: 40,
             ),
           ),
-          SizedBox(
+         const SizedBox(
             height: 60,
           )
         ],
